@@ -12,4 +12,4 @@ hidden = list(random_word)
 
 while guesses_made < 0 and playing:
     letter = input("wUt LeTtEr?")
-    if letters in 
+    if letters in
