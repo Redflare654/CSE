@@ -2,9 +2,14 @@ import random
 word = ["impossible", "important", "cellphone", "wonderful",
             "Jack", "dog", "house", "bubblegum!", "Mark", "books"]
 print(word)
-letters_guess = 10
-letters_guess_right = []
+guesses = 10
+guess_right = []
+letters_guess_wrong = []
 guesses_made = []
 random_word = random.choice(word)
 playing = True
 hidden = list(random_word)
+
+while guesses_made < 0 and playing:
+    letter = input("wUt LeTtEr?")
+    if letters in 
