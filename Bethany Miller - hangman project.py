@@ -2,7 +2,6 @@ import random
 import string
 word = ["impossible", "important", "cellphone", "wonderful",
             "Jack", "dog", "house", "bubblegum!", "Mark", "books"]
-print(word)
 guesses = 10
 guesses_right = []
 guesses_made = []
@@ -32,3 +31,12 @@ while guesses_made != 0 and playing:
             if random_word[i].lower() in guesses_right:
                 hidden.pop(i)
                 hidden.insert(i, random_word[i])
+        print("".join(hidden))
+        if list(random_word) == hidden:
+            playing = False
+
+if not playing:
+    print("wow you won you get nothing but going to hell")
+else:
+    print("awww you lose i guess you aren't smart")
+print("the le word was %s" % random_word)
