@@ -36,7 +36,7 @@ while guesses_made != 0 and playing:
             playing = False
 
 if not playing:
-    print("wow you won you get nothing but going to hell")
+    print("wow you won you get nothing")
 else:
     print("awww you lose i guess you aren't smart")
 print("the le word was %s" % random_word)
