@@ -1,5 +1,5 @@
 import random
-money = 10000000000000000000
+money = 20
 playing = True
 roles = 0
 
