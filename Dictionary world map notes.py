@@ -10,13 +10,19 @@ world_map = {
         'NAME': "A Parking Lot",
         'DESCRIPTION': "There are a few cars parked here.",
         'PATHS': {
-            'SOUTH': 'R19A'
+            'SOUTH': 'R19A',
+            'WEST': 'FAMILY_DOLLAR'
         }
     },
     'FAMILY_DOLLAR': {
         'NAME': "family dollar store",
-        'DESCRIPTION': "There a store named family dollar the store looks "
-    }
+        'DESCRIPTION': "There a store named family dollar the store looks abandoned",
+        'PATHS': {
+            'EAST': 'PARKING_LOT',
+            'SOUTH':
+        }
+    },
+
 }
 
 # Other Variables
