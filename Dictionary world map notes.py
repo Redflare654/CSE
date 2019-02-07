@@ -3,7 +3,8 @@ world_map = {
         'NAME': "Mr. Wiebe's room",
         'DESCRIPTION': "This is the room that you are in.",
         'PATHS': {
-            'NORTH': "PARKING_LOT"
+            'NORTH': "PARKING_LOT",
+            'WEST': "W_BUILDING"
         }
     },
     'PARKING_LOT': {
@@ -19,10 +20,33 @@ world_map = {
         'DESCRIPTION': "There a store named family dollar the store looks abandoned",
         'PATHS': {
             'EAST': 'PARKING_LOT',
-            'SOUTH':
+            'SOUTH': 'EMPTY_HOUSE'
         }
     },
-
+    'W_BUILDING': {
+        'NAME': "The w building",
+        'DESCRIPTION': "there a building that shape of a w but it appear to be boarded up there no where else to go",
+        'PATHS': {
+            'EAST': 'R19A'
+        }
+    },
+    'EMPTY_HOUSE': {
+      'NAME': "Le empty house",
+      'DESCRIPTION': "you see an empty house the windows are nailed shut so is the door ",
+      'PATHS': {
+          'NORTH': 'FAMILY_DOLLAR',
+          'SOUTH': 'FOREST'
+        }
+    },
+    'FOREST': {
+      'NAME': "Le forest where birds and bees are",
+      'DESCRIPTION': "you see the forset if you go in there you cant go back have fun exploring the forest",
+      'PATHS': {
+          'SOUTH': 'RIVER',
+          'EAST': 'MOUNTAIN'
+      }
+    },
+    
 }
 
 # Other Variables
@@ -33,6 +57,7 @@ playing = True
 # Controller
 while playing:
     print(current_node['NAME'])
+    print(current_node['DESCRIPTION'])
 
     command = input(">_")
     if command.lower() in ['q', 'quit', 'exit']:
