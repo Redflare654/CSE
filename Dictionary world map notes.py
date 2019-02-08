@@ -46,7 +46,10 @@ world_map = {
           'EAST': 'MOUNTAIN'
       }
     },
-    
+    'MOUNTAIN': {
+        'NAME': "Mount Hood"
+        
+    }
 }
 
 # Other Variables
