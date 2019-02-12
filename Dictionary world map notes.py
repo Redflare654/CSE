@@ -47,9 +47,16 @@ world_map = {
       }
     },
     'MOUNTAIN': {
-        'NAME': "Mount Hood"
-        
-    }
+      'NAME': "Mount Hood",
+      'DESCRIPTION': "You look around and you see a bootiful veiw of other mountains",
+      'PATHS': {
+            'WEST': 'FOREST',
+            'NORTH': 'HOLE',
+      }
+    },
+    'HOLE': {
+      'NAME':
+    },
 }
 
 # Other Variables
