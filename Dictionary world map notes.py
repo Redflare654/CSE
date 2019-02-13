@@ -64,10 +64,15 @@ world_map = {
     },
     'RIVER': {
       'NAME': "Ravi River",
-      'DESCRIPTION': "you see water and when you look around you realize that you arrive at a river and the surrounding are beautiful",
+      'DESCRIPTION': "you see water and when you look around you realize that you arrive at a"
+                     " river and the surrounding are beautiful",
       'PATHS': {
           'NORTH': 'FOREST'
       }
+    },
+    'CAVE': {
+      'NAME': "scary cave",
+      'DESCRIPTION': "you enter a cave it every dark and creepy"
     }
 }
 
