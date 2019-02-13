@@ -55,8 +55,20 @@ world_map = {
       }
     },
     'HOLE': {
-      'NAME':
+      'NAME': "deep hole",
+      'DESCRIPTION': "you look around and you see a big deep hole and you dont know where it goes too",
+      'PATHS': {
+          'NORTH': 'IN THE HOLE',
+          'WEST': 'CAVE'
+      }
     },
+    'RIVER': {
+      'NAME': "Ravi River",
+      'DESCRIPTION': "you see water and when you look around you realize that you arrive at a river and the surrounding are beautiful",
+      'PATHS': {
+          'NORTH': 'FOREST'
+      }
+    }
 }
 
 # Other Variables
