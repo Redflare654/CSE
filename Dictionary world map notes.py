@@ -58,7 +58,7 @@ world_map = {
       'NAME': "deep hole",
       'DESCRIPTION': "you look around and you see a big deep hole and you dont know where it goes too",
       'PATHS': {
-          'NORTH': 'IN_THE_HOLE',
+          'DOWN': 'IN_THE_HOLE',
           'WEST': 'CAVE'
       }
     },
@@ -79,7 +79,9 @@ world_map = {
     },
     'IN_THE_HOLE': {
        'NAME': "Underground",
-       'DESCRIPTION': " you fell 50ft from the sky and you are alive somehow you look around and it seem you landed on dead flowers  "
+       'DESCRIPTION': " you fell 50ft from the sky and you are alive somehow you look"
+                      " around and it seem you landed on dead flowers and everything around you is gray",
+       ''
     }
 }
 
