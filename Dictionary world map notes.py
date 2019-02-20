@@ -81,7 +81,13 @@ world_map = {
        'NAME': "Underground",
        'DESCRIPTION': " you fell 50ft from the sky and you are alive somehow you look"
                       " around and it seem you landed on dead flowers and everything around you is gray",
-       ''
+       'PATHS': {
+           'NORTH': 'OLD_PATHWAY'
+       }
+    },
+    'OLD_PATHWAY': {
+        'NAME': "Very old pathway",
+        'DESCRIPTION': "you look around again and you see a door frame that led a path you look "
     }
 }
 
