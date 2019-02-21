@@ -86,9 +86,13 @@ world_map = {
        }
     },
     'OLD_PATHWAY': {
-        'NAME': "Very old pathway",
-        'DESCRIPTION': "you look around again and you see a door frame that led a path you look "
-    }
+       'NAME': "Very old pathway",
+       'DESCRIPTION': "you look around again and you see a door frame that led a path",
+
+       'PATHS': {
+
+       }
+    },
 }
 
 # Other Variables
