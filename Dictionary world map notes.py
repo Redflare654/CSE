@@ -88,11 +88,18 @@ world_map = {
     'OLD_PATHWAY': {
        'NAME': "Very old pathway",
        'DESCRIPTION': "you look around again and you see a door frame that led a path",
-
        'PATHS': {
-
+            'WEST': 'ABANDONED_HOUSE'
        }
     },
+    'ABANDONED_HOUSE': {
+      'NAME': "Abandon House",
+      'DESCRIPTION': "As you walk you see an abandon house at the the top of the door you see a name toriel"
+                     "you wonder who use to live here a human or something else?",
+      'PATHS': {
+          
+      }
+    }
 }
 
 # Other Variables

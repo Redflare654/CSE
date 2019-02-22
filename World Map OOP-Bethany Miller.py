@@ -15,6 +15,6 @@ parking = Room("the parking lot", None, "R19A")
 
 R19A.north = parking
 
-#  Option 2 - Use strings, but more diffcult controller
+#  Option 2 - Use strings, but more difficult controller
 R19A = Room("Mr.Wiebe's Room", 'parking')
 parking = Room("The parking lot", None, "R19A")
