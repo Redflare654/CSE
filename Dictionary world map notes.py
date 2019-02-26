@@ -40,7 +40,7 @@ world_map = {
     },
     'FOREST': {
       'NAME': "Le forest where birds and bees are",
-      'DESCRIPTION': "you see the forset if you go in there you cant go back have fun exploring the forest",
+      'DESCRIPTION': "you see the forest if you go in there you cant go back have fun exploring the forest",
       'PATHS': {
           'SOUTH': 'RIVER',
           'EAST': 'MOUNTAIN'
@@ -94,15 +94,22 @@ world_map = {
     },
     'ABANDONED_HOUSE': {
       'NAME': "Abandon House",
-      'DESCRIPTION': "As you walk you see an abandon house at the the above of the door you see a sign a name toriel"
+      'DESCRIPTION': "As you walk you see an abandon house at the the above of the door you see a sign a name toriel "
                      "you wonder who use to live here a human or something else?",
       'PATHS': {
-          'WEST': 'INSIDE_HOUSE'
+          'UP': 'INSIDE_HOUSE'
       }
     },
     'INSIDE_HOUSE': {
-      ''
-    }
+      'NAME': "the inside of the house",
+      'DESCRIPTION': "you enter the house you see tha there a lot of furniture but it all dusty as you look"
+                     "around you see a picture of a family of goats and one human and as you look at the picture you "
+                     "question life as you question life you see a stair case that leads down and you wonder "
+                     "where that lead to ",
+      'PATHS': {
+          'DOWN': 'SNOWING_AREA'
+      }
+    },
 }
 
 # Other Variables
