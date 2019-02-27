@@ -110,6 +110,9 @@ world_map = {
           'DOWN': 'SNOWING_AREA'
       }
     },
+    'SNOWING_AREA': {
+      'NAME': "you went down the stairs you see a door open as you see dust everywhere and you still question life"
+    }
 }
 
 # Other Variables
