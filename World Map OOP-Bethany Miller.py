@@ -9,6 +9,7 @@ class Room(object):
         self.down = down
         self.description = description
 
+
 class Player(object):
     def __init__(self, starting_location):
         self.heath = 100

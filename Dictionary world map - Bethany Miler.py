@@ -111,7 +111,11 @@ world_map = {
       }
     },
     'SNOWING_AREA': {
-      'NAME': "you went down the stairs you see a door open as you see dust everywhere and you still question life"
+      'NAME': "Snowing",
+      'DESCRIPTION': "you went down the stairs you see a door open as you see dust everywhere and you still question"
+              "life while you do that you when through the door once you step on the other side you heard a crunch"
+              "sound you look down you see snow you thought how can snow be here you also wonder what else can be here"
+
     }
 }
 
