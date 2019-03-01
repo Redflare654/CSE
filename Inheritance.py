@@ -18,7 +18,7 @@ class Car(Vehicle):
         print("you move forward")
 
     def turn_left(self):
-        self.fuel -=1
+        self.fuel -= 1
         print("HE'S MAKING A LEFT TURN")
 
     def turn_off(self):
@@ -31,9 +31,23 @@ class Viper(Car):
         super(Viper, self).__init__("Viper")
 
 
+class Tesla(Car):
+    def __init__(self):
+        super(Tesla, self).__init__("Tesla")
+
+    def start_engine(self):
+        self.engine_status = True
+        print("You push the button and the engine starts")
+
+
 bethany_car = Viper()
 bethany_car.start_engine()
 bethany_car.move_forward()
 bethany_car.turn_left()
 bethany_car.move_forward()
 bethany_car.turn_off()
+print()
+
+brisa_car = Tesla()
+brisa_car.start_engine()
+brisa_car.move_forward()
