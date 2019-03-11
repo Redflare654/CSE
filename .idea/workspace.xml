@@ -43,59 +43,60 @@
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.44" value="2" />
           <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.60" value="1" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.66" value="1" />
-          <entry key="project.opened" value="32" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="21" />
+          <entry key="py" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="21" />
+          <entry key="Python" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="15" />
-          <entry key="py" value="10183" />
+          <entry key="py" value="10272" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="10183" />
+          <entry key="Python" value="10272" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.8833333">
+    <splitter split-orientation="vertical" split-proportion="0.1">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Dictionary world map - Bethany Miler.py">
+            <entry file="file://$PROJECT_DIR$/Bethany Miller-object.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="231">
-                  <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="20" />
+                <state>
+                  <caret column="12" selection-start-column="12" selection-end-column="12" />
+                  <folding>
+                    <marker date="1552338642332" expanded="true" signature="21:26" ph="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Bethany Miller-object.py">
+            <entry file="file://$PROJECT_DIR$/Object Notes.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="63">
-                  <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-                  <folding>
-                    <marker date="1550269740291" expanded="true" signature="15:20" ph="..." />
-                  </folding>
+                <state>
+                  <caret selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -112,16 +113,16 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/World Map OOP-Bethany Miller.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1176">
-                  <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+                <state relative-caret-position="97">
+                  <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Inheritance.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-15">
+                <state relative-caret-position="-330">
                   <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
                   <folding>
                     <marker date="1551479218916" expanded="true" signature="22:27" ph="..." />
@@ -140,6 +141,15 @@
               <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Dictionary world map - Bethany Miler.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="21">
+                  <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
         </leaf>
       </split-first>
       <split-second>
@@ -147,8 +157,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Dictionary world map - Bethany Miler.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret line="116" column="21" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
+                <state relative-caret-position="130">
+                  <caret line="116" column="119" lean-forward="true" selection-start-line="116" selection-start-column="119" selection-end-line="116" selection-end-column="119" />
                 </state>
               </provider>
             </entry>
@@ -177,15 +187,15 @@
         <option value="$PROJECT_DIR$/Bethany Miller - hangman project.py" />
         <option value="$PROJECT_DIR$/Dictionary notes.py" />
         <option value="$PROJECT_DIR$/special_random.py" />
-        <option value="$PROJECT_DIR$/Bethany Miller-object.py" />
         <option value="$PROJECT_DIR$/Object Notes.py" />
         <option value="$PROJECT_DIR$/lucky 7.py" />
         <option value="$PROJECT_DIR$/guess game.py" />
         <option value="$PROJECT_DIR$/Dictionary world map notes.py" />
-        <option value="$PROJECT_DIR$/World Map OOP-Bethany Miller.py" />
-        <option value="$PROJECT_DIR$/Dictionary world map - Bethany Miler.py" />
         <option value="$PROJECT_DIR$/Inheritance.py" />
         <option value="$PROJECT_DIR$/Bethany Miller - Item.py" />
+        <option value="$PROJECT_DIR$/Bethany Miller-object.py" />
+        <option value="$PROJECT_DIR$/World Map OOP-Bethany Miller.py" />
+        <option value="$PROJECT_DIR$/Dictionary world map - Bethany Miler.py" />
       </list>
     </option>
   </component>
@@ -381,7 +391,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17549168" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17776097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -432,13 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Object Notes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/special_random.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -474,34 +477,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bethany Miller-object.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-          <folding>
-            <marker date="1550269740291" expanded="true" signature="15:20" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/semester 1 notes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4851">
           <caret line="231" column="22" selection-start-line="231" selection-start-column="22" selection-end-line="231" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/World Map OOP-Bethany Miller.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionary world map - Bethany Miler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -510,7 +489,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
+        <state relative-caret-position="-330">
           <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
           <folding>
             <marker date="1551479218916" expanded="true" signature="22:27" ph="..." />
@@ -520,6 +499,37 @@
             <marker date="1551479218916" expanded="true" signature="732:925" ph="..." />
             <marker date="1551479218916" expanded="true" signature="732:926" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Notes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bethany Miller-object.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+          <folding>
+            <marker date="1552338642332" expanded="true" signature="21:26" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/World Map OOP-Bethany Miller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionary world map - Bethany Miler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="116" column="119" lean-forward="true" selection-start-line="116" selection-start-column="119" selection-end-line="116" selection-end-column="119" />
         </state>
       </provider>
     </entry>

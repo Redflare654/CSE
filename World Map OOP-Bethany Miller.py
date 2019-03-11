@@ -37,11 +37,15 @@ R19A = Room("Mr.wiebe's room ")
 parking = Room("the parking lot", None, "R19A")
 family_dollar = Room("Family dollar", None, "parking")
 empty_house = Room("le empty house", None, "family_dollar")
+forest = Room("Forest", None, "empty_house")
+
 
 R19A.north = parking
 parking.south = R19A
 parking.west = family_dollar
 family_dollar.south = empty_house
+empty_house.south = forest
+forest.east =
 
 
 player = Player(R19A)
