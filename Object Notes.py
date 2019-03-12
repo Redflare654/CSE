@@ -8,7 +8,7 @@ class Laptop(object):
         self.processor = "Intel i5"
         self.screen_resolution = screen_resolution
         self.battery_left = 100
-        self.spaceleft = extra_space
+        self.space_left = extra_space
         self.color = colour
         self.os = "Window"
         self.fuctioning = True
