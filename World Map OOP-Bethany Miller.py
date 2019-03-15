@@ -47,7 +47,7 @@ parking.west = family_dollar
 family_dollar.south = empty_house
 empty_house.south = forest
 forest.east = mountain
-mountain.
+mountain.south =
 
 
 player = Player(R19A)
