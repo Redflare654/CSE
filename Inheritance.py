@@ -91,7 +91,9 @@ class Character(object):
     def attack(self, target):
         print("%s attacks %s for %d damage" % (self.name, target.name, self.weapon.damage))
 
+
 # Item
 sword = Weapon("Sword", 10)
 canoe = Weapon("canoe", 84)
-wiebe_armor = 
+wiebe_armor = Armor("Wiebe Armor", 75)
+
