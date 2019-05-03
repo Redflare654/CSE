@@ -225,7 +225,7 @@ Outside = Room("once you were out of the cave you seen a beautiful view of the f
 R19A.item = [water]
 family_dollar.item = [rope, water]
 empty_house.item = [phone, chocolate]
-mountain.item = flashlight
+mountain.item = [flashlight]
 
 
 R19A.north = parking
@@ -248,6 +248,7 @@ Hotland.up = The_lab
 The_lab.north = New_home
 New_home.west = Judgement_hall
 Judgement_hall.up = The_cave
+The_cave.up = Outside
 
 
 player = Player(R19A)
