@@ -37,7 +37,7 @@ complex_dictionary = {
     "CA": {
         "NAME": "California",
         "POPULATION": 39500000, # 39,500,000
-        "CITIES":[
+        "CITIES": [
             "Fresno",
             "Los Banos",
             "Clovis"
@@ -46,7 +46,7 @@ complex_dictionary = {
     "NJ": {
         "NAME": "New Jersey",
         "POPULATION": 9000000, #9,000,000
-        "CITIES":[
+        "CITIES": [
             "newark",
             "trenton"
         ]
