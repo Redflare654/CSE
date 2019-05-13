@@ -297,4 +297,3 @@ while playing:
             print("you picked up le %s" % item_name)
     else:
         print("Command not recognized.")
-
