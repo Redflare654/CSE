@@ -180,6 +180,7 @@ water = Water("Water bottle")
 flashlight = Flashlight("Flashlight")
 phone = Phone("Cellphone")
 rope = Rope("The rope it can do many thing")
+necklance = Necklace("what a pretty necklance it mine now")
 
 
 # Options 1 - Use the variables , but fix later
