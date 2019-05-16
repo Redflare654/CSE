@@ -186,40 +186,63 @@ necklance = Necklace("what a pretty necklance it mine now")
 # Options 1 - Use the variables , but fix later
 R19A = Room("this is a classroom", "Mr.Wiebe's room")
 parking = Room("There are a few cars parked here.", "The parking lot")
-family_dollar = Room("There a store named family dollar the store looks abandoned", "OLD FAMILY DOLLARS")
+family_dollar = Room("There a store named family dollar the store looks "
+                     "abandoned", "OLD FAMILY DOLLARS")
 empty_house = Room("you see an empty house the windows are nailed shut so is the door",  "le empty house")
-forest = Room("you see the forest if you go in there you cant go back have fun exploring the forest",  "Forest")
-mountain = Room("You look around and you see a beautiful view of other mountains",  "Mount hood")
-hole = Room("you look around and you see a big deep hole and you don't know where it goes too",  "Hole")
+forest = Room("you see the forest if you go in there you cant go back have fun "
+              "exploring the forest",  "Forest")
+mountain = Room("You look around and you see a beautiful view of other"
+                " mountains",  "Mount hood")
+hole = Room("you look around and you see a big deep hole and you don't know"
+            " where it goes too",  "Hole")
 in_the_hole = Room("you fell very deep and lived yay!",  "Underground")
-old_pathway = Room("you look around again and you see a door frame that led a path",  "old pathway")
-old_house = Room("you wonder who use to live here a human or something else", "very old house")
-inside_house = Room("around you see a picture of a family of goats and one human and as you look at the picture you "
-                    "question life as you question life you see a stair case that leads down and you wonder "
+old_pathway = Room("you look around again and you see a door frame that led a "
+                   "path",  "old pathway")
+old_house = Room("you wonder who use to live here a human or something"
+                 " else", "very old house")
+inside_house = Room("around you see a picture of a family of goats and one "
+                    "human and as you look at the picture you "
+                    "question life as you question life you see a stair case that leads"
+                    " down and you wonder "
                     "where that lead to ", "inside the house")
-snowing_area = Room("you went down the stairs you see a door open as you see dust everywhere and you still question "
+snowing_area = Room("you went down the stairs you see a door open as you see "
+                    "dust everywhere and you still question "
                     "life while you do that you when through the door once "
                     "you step on the other side you heard a crunch "
                     "sound you look down you see snow you thought how can snow be "
                     "here you also wonder what else can be here",
                     "snowing area")
-snowed_house = Room("you walked around you see a snowed up house with 2 mail box and you wonder why there only one"
-                    "them stuffed with paper and you also notice they both have names on them on is sans the other is"
+snowed_house = Room("you walked around you see a snowed up house with 2 mail "
+                    "box and you wonder why there only one"
+                    "them stuffed with paper and you also notice they both have names "
+                    "on them on is sans the other is"
                     "papyrus", "Sans and Papyrus house")
-waterfall = Room("you looked around more and it looked like you've walked in to a town of snow but you kept walking "
-                 "and you see water everywhere so you called this area waterfall and it looked beautiful", "Waterfall")
-echo_flower = Room("when you pass water fall you see blue flowers everywhere and there also glowing you said something"
+waterfall = Room("you looked around more and it looked like you've walked in to"
+                 " a town of snow but you kept walking "
+                 "and you see water everywhere so you called this area waterfall "
+                 "and it looked beautiful", "Waterfall")
+echo_flower = Room("when you pass water fall you see blue flowers everywhere "
+                   "and there also glowing you said something"
                    "the flowers repeated what you said over and over again", "Echo")
-Hotland = Room("as you walked through you started to feel hot when you looked around you see lava everywhere and then"
-               "you see a building you walked up to it and the the door is open so you went in", "Hotland")
-The_lab = Room("when you walked in the room it looked like an old lab and it was dark too you walked around the next"
-               "thing you notice there was a water fountain and a hot dog stand and you kept walking", "the lab")
-New_home = Room("after you got out the lab you seen a sign called new home but it looked very old you called old home",
+Hotland = Room("as you walked through you started to feel hot when you looked"
+               " around you see lava everywhere and then"
+               "you see a building you walked up to it and the the door is open so you"
+               " went in", "Hotland")
+The_lab = Room("when you walked in the room it looked like an old lab and it "
+               "was dark too you walked around the next"
+               "thing you notice there was a water fountain and a hot dog stand and "
+               "you kept walking", "the lab")
+New_home = Room("after you got out the lab you seen a sign called new home but"
+                " it looked very old you called old home",
                 "Old Home")
-Judgement_hall = Room("while you walk you've walked into a hall and there was a pile of dust and holes in the walls "
-                      "everywhere and one have a blue bone sticking out", "Judgement Hall")
-The_cave = Room("as you walked by you seen a cave which label the barrier and this where it all ends", "The Cave")
-Outside = Room("once you were out of the cave you seen a beautiful view of the forest and it was quite relaxing",
+Judgement_hall = Room("while you walk you've walked into a hall and there"
+                      " was a pile of dust and holes in the walls "
+                      "everywhere and one have a blue bone sticking out",
+                      "Judgement Hall")
+The_cave = Room("as you walked by you seen a cave which label the barrier"
+                " and this where it all ends", "The Cave")
+Outside = Room("once you were out of the cave you seen a beautiful view of "
+               "the forest and it was quite relaxing",
                "Outside")
 
 
