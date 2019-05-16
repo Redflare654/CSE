@@ -1,7 +1,7 @@
 import random
 import string
 word = ["impossible", "important", "Wayward", "wonderful",
-            "Jack", "winchester", "house", "bubblegum!", "Castiel", "books"]
+        "nephilim ", "winchester", "house", "bubblegum!", "Castiel", "books"]
 guesses = 10
 guesses_right = []
 guesses_made = []
